@@ -85,6 +85,6 @@ p {
     transition: opacity 0.25s ease-in-out;
 }
 
-.gallery-img:hover {
+/* .gallery-img:hover {
     opacity: .7;
-}
+} */
